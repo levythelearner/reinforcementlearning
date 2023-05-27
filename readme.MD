@@ -29,7 +29,7 @@ File you'll edit:
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/levythelearner/reinforcementlearning]
+git clone https://github.com/levythelearner/reinforcementlearning
 ```
 
 2. Navigate to the project directory:
